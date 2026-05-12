@@ -1,6 +1,6 @@
 {
   "name": "MegaETH Token List",
-  "timestamp": "2026-05-07T10:36:50.757Z",
+  "timestamp": "2026-05-12T06:42:23.089Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -254,6 +254,19 @@
         "originMechanism": "lock"
       },
       "logoURI": "https://raw.githubusercontent.com/megaeth-labs/mega-tokenlist/main/data/CUSD/logo.svg"
+    },
+    {
+      "chainId": 4326,
+      "address": "0xC2f34f8849a8607FD73E06D6849bDA07C2b7DE38",
+      "name": "Dirty Money",
+      "symbol": "DIRTY",
+      "decimals": 18,
+      "extensions": {
+        "isOrigin": true,
+        "mechanism": "native",
+        "isOFT": false
+      },
+      "logoURI": "https://raw.githubusercontent.com/megaeth-labs/mega-tokenlist/main/data/DIRTY/logo.png"
     },
     {
       "chainId": 4326,
